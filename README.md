@@ -4,21 +4,21 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 10, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Gia Busacco)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, the purpose was to learn how to build an API and use AJAX methods to allow the client server to send a HTTPS request for a response.)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to request an API key and the purpose of needing an API key.)
+2. (I learned that the client server needs an HTTPS request for an HTTPS response.)
+3. (I learned how to use the $.ajax()Method.)
+4. (I learned how to use a DOM element and JSON name to help retrieve information.)
+5. (I learned how to match id= codes with the information intended to be retrieved.)
