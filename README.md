@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (In this assignment, the purpose was to learn how to build an API and use AJAX methods to allow the client server to send a HTTPS request for a response.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://giabusacco.github.io/lesson8_ajax/.)
 
 ### Lessons Learned in the Assignment:
 1. (I learned how to request an API key and the purpose of needing an API key.)
